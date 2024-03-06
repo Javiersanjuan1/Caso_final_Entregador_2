@@ -100,7 +100,7 @@ public class Main {
         gestionRecursos.agregarRecurso(alimento, 100);
         gestionRecursos.agregarRecurso(medicina, 50);
 
-        // Creamos un pedido y lo procesamo
+        // Creamos un pedido y lo proce
         Pedido pedido = new Pedido();
         pedido.agregarRecurso(alimento, 20);
         pedido.agregarRecurso(medicina, 10);
