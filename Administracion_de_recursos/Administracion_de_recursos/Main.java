@@ -105,7 +105,7 @@ public class Main {
         pedido.agregarRecurso(medicina, 10);
         gestionRecursos.procesarPedido(pedido);
 
-        // Mostramos el inventario después de procesar el pedido
+        // Mostramos el inventario después de pro
         gestionRecursos.mostrarInventario();
     }
 }
