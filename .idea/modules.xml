@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Administracion_de_recursos/Administracion_de_recursos.iml" filepath="$PROJECT_DIR$/Administracion_de_recursos/Administracion_de_recursos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Caso_final_Entregador_2.iml" filepath="$PROJECT_DIR$/.idea/Caso_final_Entregador_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cuidado_de_animales/Cuidado_de_animales.iml" filepath="$PROJECT_DIR$/Cuidado_de_animales/Cuidado_de_animales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" filepath="$PROJECT_DIR$/Gestion_de_habitats/Gestion_de_habitats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interaccion_con_animales/Interaccion_con_animales.iml" filepath="$PROJECT_DIR$/Interaccion_con_animales/Interaccion_con_animales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mantenimiento_y_seguridad/Mantenimiento_y_seguridad.iml" filepath="$PROJECT_DIR$/Mantenimiento_y_seguridad/Mantenimiento_y_seguridad.iml" />
+    </modules>
+  </component>
+</project>
